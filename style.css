@@ -258,7 +258,7 @@ body.light-mode .bio-text {
 }
 /* Teks saat Mode Terang */
 body.light-mode #motivasi {
-    color: #173b78 !important;
+    color: #173b78 ;
 }
 body.light-mode .modal-box {
 background: #ffffff;
